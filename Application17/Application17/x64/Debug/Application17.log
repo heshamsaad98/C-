@@ -1,0 +1,3 @@
+﻿  Application17.cpp
+C:\Users\Hesham\Desktop\c++ git\OOP\Porject\New folder (2)\Application17\Application17\Application17.cpp(88,45): warning C4305: 'argument': truncation from 'double' to 'float'
+  Application17.vcxproj -> C:\Users\Hesham\Desktop\c++ git\OOP\Porject\New folder (2)\Application17\x64\Debug\Application17.exe
