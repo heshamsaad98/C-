@@ -1,0 +1,3 @@
+﻿  Application13.cpp
+C:\Users\Hesham\Desktop\c++ git\OOP\Porject\New folder (2)\Application13\Application13\Application13.cpp(74,31): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Application13.vcxproj -> C:\Users\Hesham\Desktop\c++ git\OOP\Porject\New folder (2)\Application13\x64\Debug\Application13.exe
